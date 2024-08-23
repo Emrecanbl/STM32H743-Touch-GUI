@@ -5,7 +5,7 @@
 This project uses **LVGL** (Light and Versatile Graphics Library) on an STM32H743 microcontroller to create a graphical user interface (GUI) for controlling an air conditioning system. The system includes features for adjusting fan speed, setting target temperatures, and toggling the power.
 
 ![Sample](https://github.com/Emrecanbl/STM32H743-Touch-GUI/blob/main/IMG_20240823_215731%20(1)%20(3).jpg)
-
+![Sample](https://github.com/Emrecanbl/STM32H743-Touch-GUI/blob/main/IMG_20240823_215731%20(1).jpg)
 ### Features
 
 - **Air Conditioning Control**: Power the AC on or off.
