@@ -1,0 +1,5 @@
+../Drivers/UI/ui_events.c:10:6:fan_on_1	16	static
+../Drivers/UI/ui_events.c:23:6:AC_ON_OFF	16	static
+../Drivers/UI/ui_events.c:36:6:ONOFFBTNclicked	16	static
+../Drivers/UI/ui_events.c:50:6:FAN_SPD_CHAN	32	static
+../Drivers/UI/ui_events.c:58:6:HEAT_CHANGE	32	static

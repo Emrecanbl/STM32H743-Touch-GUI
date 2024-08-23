@@ -1,0 +1,6 @@
+../Drivers/UI/ui.c:50:6:ui_event_Arc1	24	static
+../Drivers/UI/ui.c:61:6:ui_event_Switch1	24	static
+../Drivers/UI/ui.c:69:6:ui_event_Arc2	24	static
+../Drivers/UI/ui.c:80:6:ui_event_Switch2	24	static
+../Drivers/UI/ui.c:88:6:ui_event_ONOFF	24	static
+../Drivers/UI/ui.c:99:6:ui_init	32	static
