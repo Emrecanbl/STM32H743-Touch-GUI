@@ -3,7 +3,7 @@
 ## Overview
 
 This project uses **LVGL** (Light and Versatile Graphics Library) on an STM32H743 microcontroller to create a graphical user interface (GUI) for controlling an air conditioning system. The system includes features for adjusting fan speed, setting target temperatures, and toggling the power.
-
+![Sample](https://github.com/Emrecanbl/STM32_FreeRtos_Robotic_Arm_Controller/blob/main/8zxkjf.gif?raw=true)
 ### Features
 
 - **Air Conditioning Control**: Power the AC on or off.
@@ -114,6 +114,8 @@ This file handles USB communication, particularly for a virtual COM port.
   ```cpp
   CDC_Transmit_FS("Command String\n", strlen("Command String\n"));
   ```
+
+![Sample](https://github.com/Emrecanbl/STM32H743-Touch-GUI/blob/main/ScreenShot_1.png?raw=true)
 
 ### Example Flow
 
